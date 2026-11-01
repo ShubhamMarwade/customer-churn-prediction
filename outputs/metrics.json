@@ -1,0 +1,8 @@
+{
+  "best_model": "XGBoost",
+  "threshold": 0.33999999999999997,
+  "test_roc_auc": 0.8437353070345398,
+  "f1_at_threshold": 0.6314655172413793,
+  "n_rows": 7043,
+  "churn_rate": 0.2653698707936959
+}

@@ -1,0 +1,11 @@
+,mean_abs_shap
+Contract_Month-to-month,0.70569474
+tenure,0.40608764
+OnlineSecurity_No,0.3234322
+InternetService_Fiber optic,0.23555633
+TechSupport_No,0.19368646
+tenure_group_0-12,0.17415774
+PaymentMethod_Electronic check,0.1696491
+MultipleLines_No,0.13652469
+MonthlyCharges,0.12498766
+StreamingMovies_Yes,0.11982823
